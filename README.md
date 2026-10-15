@@ -7,11 +7,11 @@
 **Full-stack developer and freelancer (French *auto-entrepreneur*)** based in Paris.
 I build **SaaS products** and **full-stack websites** for small businesses, from the first idea to launch.
 
-> 🔎 **I'm looking for a work-study position (alternance)** as a full-stack / software engineer. Feel free to reach out!
+>  **I'm looking for a work-study position (alternance)** as a full-stack / software engineer. Feel free to reach out!
 
-- 🎓 Computer Engineering student at **ISEP** (Paris)
-- 🇰🇷 Previously studied at **Inha University** (Incheon, South Korea)
-- 💼 Running my own web studio: [stackelio.net](https://stackelio.net)
+- Computer Engineering student at **ISEP** (Paris)
+-  Previously studied at **Inha University** (Incheon, South Korea)
+-  Running my own web studio: [stackelio.net](https://stackelio.net)
 
 ## What I do
 
